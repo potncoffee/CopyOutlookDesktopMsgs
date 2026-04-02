@@ -1,2 +1,5 @@
 # CopyOutlookDesktopMsgs
-Select one or more Outlook desktop emails, and this will copy them all to clipboard. Utilizes markdown to deliniate messages in threads, making it easier for LLMs to review emails.
+Outlook VBA macro that copies selected emails to clipboard as structured Markdown — optimized for pasting into AI/LLM interfaces. No FM20.DLL required.
+
+🌈
+🤲🏻
